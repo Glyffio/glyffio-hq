@@ -2,13 +2,13 @@
 
 **Digital product commerce and workflow optimization software.**
 
-Practical, automated tools that help startups and SMEs distribute digital products and optimize asset workflows—without operational complexity.
+Practical, automated tools that help startups and SMEs distribute digital products and optimize visual asset workflows—without operational complexity.
 
-Commerce infrastructure meets automated asset workflows.
+Commerce infrastructure meets automated visual asset workflows.
 
 ## About
 
-Glyffio builds infrastructure for digital product commerce and asset management. It is designed for businesses—including startups and independent creators—that need to sell digital products and manage file workflows without adding operational complexity.
+Glyffio builds infrastructure for digital product commerce and visual asset management. It is designed for businesses—including startups and independent creators—that need to sell digital products and manage file workflows without adding operational complexity.
 
 By integrating commerce infrastructure with backend workflow automation, lean teams can:
 
@@ -28,9 +28,9 @@ A straightforward engine for handling the distribution and management of digital
 - Secure distribution & access control
 - Delivery tracking for digital goods
 
-### Asset Optimization
+### Visual Asset Optimization
 
-A SaaS suite that automates file processing pipelines—improving delivery speeds and reducing storage overhead so assets stay lean from upload to download.
+A SaaS suite that automates file processing pipelines—improving delivery speeds and reducing storage overhead so visual assets stay lean from upload to download.
 
 - Automated processing pipelines
 - Faster delivery, lower storage cost
@@ -40,7 +40,7 @@ A SaaS suite that automates file processing pipelines—improving delivery speed
 
 Build practical tools. Ship digital products. Keep workflows efficient.
 
-Glyffio builds practical, automated software tools that help startups and small-to-medium enterprises distribute digital products and optimize their asset workflows efficiently.
+Glyffio builds practical, automated software tools that help startups and small-to-medium enterprises distribute digital products and optimize their visual asset workflows efficiently.
 
 ## Early Access
 
